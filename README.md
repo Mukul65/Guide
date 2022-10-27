@@ -1,9 +1,9 @@
 # Guide
-Resources 
 
-# Guide to Placements
 
-<strong> This is a guide to excel in placements both for internships and full time. </strong>
+#Resources
+
+<strong>  </strong>
 
 ## Table of Contents
 
